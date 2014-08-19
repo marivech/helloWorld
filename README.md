@@ -1,4 +1,6 @@
 helloWorld
 ==========
 
-let's discover Git
+Let's  explore Git
+
+Information about myself
